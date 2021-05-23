@@ -11,4 +11,4 @@
 
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lonkle&count_private=true)](https://github.com/anuraghazra/github-readme-stats)   [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lonkle)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lonkle&count_private=true)](https://github.com/anuraghazra/github-readme-stats) --- [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lonkle)](https://github.com/anuraghazra/github-readme-stats) 
