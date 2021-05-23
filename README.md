@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on AltStore, Delta, Clip, and Therapii
-- 🌱 I run http://reddit.com/r/AltStore/ and https://www.reddit.com/r/Delta_Emulator
-- 👯 I’m looking to collaborate on iOS projects (JB and stable)
+- 🌱 I manage http://reddit.com/r/AltStore/ and https://www.reddit.com/r/Delta_Emulator
+- 👯 I’m looking to collaborate on iOS projects (JB and Jailed)
 - 🤔 I’m looking for help with tweak development
-- 💬 Ask me about AltStore + Delta + Clip
+- 💬 Ask me about anything iOS (I probably have an answer for you)
 - 📫 How to reach me: https://twitter.com/lonkles
 - 😄 Pronouns: They / Them
 - ⚡ Fun fact: I'm autistic
