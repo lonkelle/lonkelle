@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Deltroid, AltStore, Delta (for iOS), and Therapii (for Android / iOS)
-- 🌱 I manage https://reddit.com/r/AltStore and https://www.reddit.com/r/Delta_Emulator
+- 🌱 I manage r/AltStore, r/Delta_Emulator, and both of the AltStore and Delta Discord Servers
 - 👯 I’m looking to collaborate on iOS projects (JB and Jailed)
 - 🤔 I’m looking for help with tweak development
 - 💬 Ask me about anything iOS (I probably have an answer for you)
