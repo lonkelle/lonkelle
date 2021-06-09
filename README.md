@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AltStore, Delta, Clip, and Therapii
+- 🔭 I’m currently working on Deltroid, AltStore, Delta (for iOS), and Therapii (for Android / iOS)
 - 🌱 I manage https://reddit.com/r/AltStore and https://www.reddit.com/r/Delta_Emulator
 - 👯 I’m looking to collaborate on iOS projects (JB and Jailed)
 - 🤔 I’m looking for help with tweak development
