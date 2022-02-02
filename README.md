@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on iOS (JB and Jailed), Android, and web dev projects in terms of backend, REing, infrastructure, and project management
 - 🤔 I’m looking for help with JB tweak development specifically (brand new to it)
 - 💬 Ask me about anything about (jailed) iOS or retro video games and I'll probably have an answer for you
-- 📫 How to reach me: [`twitter.com/lonkelle`](https://twitter.com/lonkelle)
+- 📫 How to reach me: [`twitter.com/lonkelle`](https://twitter.com/lonkelle) or [`reddit.com/lonkelle`](https://www.reddit.com/user/Lonkelle/)
 - 😄 Pronouns: They / Them
 - ⚡ Fun fact: I'm probably undiagnosed autistic (for multiple reasons) but it's so late in my adult life that it's impossible to try to get a real diagnosis (I've been masking for so long) - but I will try to get one when my life's a bit more stable financially.
 
