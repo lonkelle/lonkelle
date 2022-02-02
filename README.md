@@ -10,4 +10,4 @@
 - 😄 Pronouns: They / Them
 - ⚡ Fun fact: I'm probably undiagnosed autistic (for multiple reasons) but it's so late in my adult life that it's impossible to try to get a real diagnosis (I've been masking for so long) - but I will try to get one when my life's a bit more stable financially.
 
-[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Lonkle&count_private=true&theme=dark&show_icons=true&icon_color=0BE7EE&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=lonkelle&count_private=true&theme=dark&show_icons=true&icon_color=0BE7EE&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
