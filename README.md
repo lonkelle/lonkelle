@@ -5,7 +5,7 @@
 - 👩‍💼 I use Trello for project management. Here are the public ones I co-manage: [`AltStore`](https://bit.ly/altstore-features), [`Delta`](https://bit.ly/delta-features), and [`Clip`](https://bit.ly/clip-features)
 - 👯 I’m looking to collaborate on iOS (JB and Jailed), Android, and web dev projects in terms of backend, REing, infrastructure, and project management
 - 🤔 I’m looking for help with JB tweak development specifically (brand new to it)
-- 💬 Ask me about anything jailed iOS (I probably have an answer for you)
+- 💬 Ask me about anything about (jailed) iOS (I probably have an answer for you)
 - 📫 How to reach me: [`twitter.com/lonkles`](https://twitter.com/lonkelle)
 - 😄 Pronouns: They / Them
 - ⚡ Fun fact: I'm probably undiagnosed autistic (for multiple reasons) but it's so late in my adult life that it's impossible to try to get a real diagnosis (I've been masking for so long) - but I will try to get one when my life's a bit more stable financially.
