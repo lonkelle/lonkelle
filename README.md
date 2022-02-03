@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [`Deltroid`](https://bit.ly/deltroid-twitter), and Therapii (for Android / iOS) - if you'd like to directly support my passion / hobby / weekend-dev work, just use [`bit.ly/support-joelle-on-patreon`](https://bit.ly/support-joelle-on-patreon) to become a patron of my work 💕
+- 🔭 I’m currently working on [`Deltroid`](https://bit.ly/deltroid-twitter), and Therapii (for Android / iOS) - if you'd like to directly support my passion / hobby / weekend-dev work, just use [`bit.ly/support-joelle-on-patreon`](https://bit.ly/support-lonkelle-on-patreon) to become a patron of my work 💕
 - 🌱 I co-moderate and provide tech support for the communities of [`r/AltStore`](https://bit.ly/altstore-reddit), [`r/Delta_Emulator`](https://bit.ly/delta-reddit), and the Delta / AltStore [`Public Discord`](https://bit.ly/altmember-delta-general-chat) and [`Patron Discord`](https://bit.ly/altpatron-preview) (preview link, you will be automatically removed from the server by `AltBot` unless you become a patron on AltStore + Delta's [`Patreon`](https://bit.ly/rileytestut-patreon))
 - 👩‍💼 I use Trello for project management. Here are the public ones I co-manage: [`AltStore`](https://bit.ly/altstore-features), [`Delta`](https://bit.ly/delta-features), and [`Clip`](https://bit.ly/clip-features)
 - 👯 I’m looking to collaborate on iOS (JB and Jailed), Android, and web dev projects in terms of backend, REing, infrastructure, and project management
 - 🤔 I’m looking for help with JB tweak development specifically (brand new to it)
 - 💬 Ask me about anything about (jailed) iOS or retro video games and I'll probably have an answer for you
-- 📫 How to reach me: [`twitter.com/lonkelle`](https://twitter.com/lonkelle) or [`reddit.com/lonkelle`](https://www.reddit.com/user/Lonkelle/)
+- 📫 How to reach me: [`twitter.com/lonkelle`](https://twitter.com/lonkelle) or [`reddit.com/lonkelle`](https://www.reddit.com/user/lonkelle/)
 - 😄 Pronouns: They / Them
 - ⚡ Fun fact: I'm probably undiagnosed autistic (for multiple reasons) but it's so late in my adult life that it's impossible to try to get a real diagnosis (I've been masking for so long) - but I will try to get one when my life's a bit more stable financially.
 
