@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: They / Them
 - 📫 If you want to contact me on Discord, you can join here: [`discord.gg/AU7Rbv8`](https://bit.ly/joelles-digital-house-discord-invite)
-- Feel free to reach out via [`twitter.com/lonkelle`](https://twitter.com/lonkelle) or [`reddit.com/lonkelle`](https://www.reddit.com/user/lonkelle/) 
+- Feel free to reach out via [`twitter.com/lonkelle`](https://bit.ly/lonkelle-twitter) or [`reddit.com/lonkelle`](https://bit.ly/lonkelle-reddit 
 - 🔭 Currently working on [`Deltroid`](https://bit.ly/deltroid-twitter) and Therapii (for Android / iOS) - if you'd like to directly support my passion, just use [`bit.ly/support-joelle-on-patreon`](https://bit.ly/support-joellestickney-on-patreon) to become a patron of my work 💕
 - 🌱 I co-moderate and provide tech support for the communities of [`r/AltStore`](https://bit.ly/altstore-reddit), [`r/Delta_Emulator`](https://bit.ly/delta-reddit), and the Delta / AltStore [`Public Discord`](https://bit.ly/altmember-delta-general-chat) + [`Patron Discord`](https://bit.ly/altpatron-preview) (preview link, you will be automatically removed from the server a patron of AltStore / Delta via [`Patreon`](https://bit.ly/rileytestut-patreon)
 - 👩‍💼 I use Trello for project management. Here are the public ones I co-manage: [`AltStore`](https://bit.ly/altstore-features), [`Delta`](https://bit.ly/delta-features), and [`Clip`](https://bit.ly/clip-features)
