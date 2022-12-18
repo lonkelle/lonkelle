@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 😄 Pronouns: They / Them (but you can use whatever pronouns you like, enby just fits my personality best)
-- 📫 If you know me and want to interact with me **personally** on Discord, you can join **Joelle's Digital House** here: [`discord.gg/AU7Rbv8`](https://bit.ly/joelles-digital-house-discord-invite)
-- Otherwise, feel free to reach out via [`twitter.com/lonkelle`](https://bit.ly/lonkelle-twitter), [`mastodon.social/@lonkelle`](https://bit.ly/lonkelle-mastodon), or [`reddit.com/lonkelle`](https://bit.ly/lonkelle-reddit)
+- 📫 If you know me and want to interact with me **personally** on Discord, you can join **Joelle's Digital House** here: [`discord.gg/AU7Rbv8`](https://bit.ly/joelles-digital-house-discord-invite). Otherwise, feel free to reach out via [`twitter.com/lonkelle`](https://bit.ly/lonkelle-twitter), [`mastodon.social/@lonkelle`](https://bit.ly/lonkelle-mastodon), or [`reddit.com/lonkelle`](https://bit.ly/lonkelle-reddit)
 - 🔭 Currently focusing my work on [`SideStore for iOS`](https://bit.ly/sidestore-twitter) and [`Provenance Emu`](https://bit.ly/provenance-twitter) - if you'd like to directly support my passion(s), just use [`bit.ly/support-joelle-on-patreon`](https://bit.ly/support-joellestickney-on-patreon) to become a patron of my work 💕
 - 🌱 I run / co-moderate / provide tech support for the communities of the [`SideStore Discord`](https://bit.ly/altmember-delta-general-chat), [`r/Provenance_Emu`](https://bit.ly/provenance-reddit), [`r/AltStore`](https://bit.ly/altstore-reddit), and [`r/Delta_Emulator`](https://bit.ly/delta-reddit).
 - 👩‍💼 I use Trello for project management. Here are the public ones I co-manage: [`AltStore`](https://bit.ly/altstore-features), [`Delta`](https://bit.ly/delta-features), and [`Clip`](https://bit.ly/clip-features)
