@@ -15,7 +15,8 @@
 
 - 👯 I’m looking to collaborate on iOS (jb and jailed), and webdev projects in terms of backend, REing, infrastructure, and project management
 - 🤔 I’m looking for help with JB tweak development specifically (brand new to it)
+- 🎮 I want to start / join a team to work on retro games (specifically NES) that will also publish on Steam and Nintendo's eShop
 
-
+### My Interests
 
 [![GitHub Activity](https://github-readme-stats.vercel.app/api?username=lonkelle&count_private=true&theme=dark&show_icons=true&icon_color=0BE7EE&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
