@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 If you want to interact with me **personally** on Discord, you can join **Joelle's Digital House**: [`discord.gg/AU7Rbv8`](https://bit.ly/joelles-digital-house-discord-invite). Otherwise, reach out via [`twitter.com/lonkelle`](https://bit.ly/lonkelle-twitter), [`mastodon.social/@lonkelle`](https://bit.ly/lonkelle-mastodon), or [`reddit.com/lonkelle`](https://bit.ly/lonkelle-reddit
+- 📫 If you want to interact with me **personally** on Discord, you can join **Joelle's Digital House**: [`discord.gg/AU7Rbv8`](https://bit.ly/joelles-digital-house-discord-invite). Otherwise, reach out via [`twitter.com/lonkelle`](https://bit.ly/lonkelle-twitter), [`mastodon.social/@lonkelle`](https://bit.ly/lonkelle-mastodon), or [`reddit.com/lonkelle`](https://bit.ly/lonkelle-reddit)
 - 😄 Pronouns: They / Them (but you can use whatever pronouns you like, enby just fits my personality best)
 - ⚡ Fun fact: I'm probs undiagnosed autistic (and def neurodivergent) but it's so late in my adult life that it's impossible to try to get a real diagnosis (I've been masking for so long) - but I'm trying to get one just to prove to myself why I'm such a goofball of a person.
 
