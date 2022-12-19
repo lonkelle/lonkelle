@@ -8,7 +8,7 @@
 ### My Work
 
 - 🔭 Currently focusing on [`SideStore for iOS`](https://bit.ly/sidestore-twitter) and [`Provenance Emu`](https://bit.ly/provenance-twitter) - if you'd like to directly support my passion(s), just use [`bit.ly/support-joelle-on-patreon`](https://bit.ly/support-joellestickney-on-patreon) to become a patron of my work 💕
-- 🌱 I run / co-moderate / provide tech support on the [`SideStore Discord`](https://bit.ly/altmember-delta-general-chat), [`r/Provenance_Emu`](https://bit.ly/provenance-reddit), [`r/AltStore`](https://bit.ly/altstore-reddit), [`r/Delta_Emulator`](https://bit.ly/delta-reddit), and [`r/SideStore`](https://bit.ly/sidestore-reddit).
+- 🌱 I run the [`SideStore Discord`](https://bit.ly/altmember-delta-general-chat) and co-moderate / provide tech support on [`r/Provenance_Emu`](https://bit.ly/provenance-reddit), [`r/AltStore`](https://bit.ly/altstore-reddit), [`r/Delta_Emulator`](https://bit.ly/delta-reddit), and [`r/SideStore`](https://bit.ly/sidestore-reddit).
 - 👩‍💼 I use Trello for project management. Here are the public projects I co-manage: [`AltStore`](https://bit.ly/altstore-features), [`Delta`](https://bit.ly/delta-features), and [`Clip`](https://bit.ly/clip-features)
 
 ### My Interests
