@@ -2,7 +2,7 @@
 
 - 📫 If you want to interact with me *personally* on Discord, you can join **Joelle's Digital House**: [`discord.gg/AU7Rbv8`](https://bit.ly/joelles-digital-house-discord-invite) - otherwise, reach out via [`twitter.com/lonkelle`](https://bit.ly/lonkelle-twitter), [`mastodon.social/@lonkelle`](https://bit.ly/lonkelle-mastodon), or [`reddit.com/lonkelle`](https://bit.ly/lonkelle-reddit-profile)
 - 😄 Pronouns: They / Them (you can use whatever pronouns you like, enby just fits me best)
-- ⚡ Fun fact: I'm probs undiagnosed autistic (and def neurodivergent) - but I'm trying to get an actual diagnosis just to prove to myself why I'm such a goofball of a person.
+- ⚡ Fun fact: I'm probs undiagnosed autistic (and def neurodivergent) - but I'm trying to get an actual diagnosis just to prove to myself why I'm such a goofball of a person
 - 💬 Ask me about anything about iOS or retro video games and I'll probably have an answer for you
 
 ### My Work
