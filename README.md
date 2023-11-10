@@ -1,6 +1,6 @@
 ### My Life
 
-- 📫 If you want to contact me (or the SideStore team) *directly*, join my developers-only Discord - **Joelle's Digital Space**: [`discord.gg/AU7Rbv8`](https://bit.ly/joelles-digital-house-discord-invite), otherwise, feel free to reach out via [`twitter.com/lonkelle`](https://bit.ly/lonkelle-twitter), [`mastodon.social/@lonkelle`](https://bit.ly/lonkelle-mastodon), or [`reddit.com/lonkelle`](https://bit.ly/lonkelle-reddit-profile)
+- 📫 If you want to contact me (or the SideStore team) *directly*, join the Discord I created - **SideTeam's Dev Space**: [`discord.gg/AU7Rbv8`](https://bit.ly/joelles-digital-house-discord-invite), otherwise, feel free to reach out via [`twitter.com/lonkelle`](https://bit.ly/lonkelle-twitter), [`mastodon.social/@lonkelle`](https://bit.ly/lonkelle-mastodon), or [`reddit.com/lonkelle`](https://bit.ly/lonkelle-reddit-profile)
 - 😄 Pronouns: They / Them (you can use whatever pronouns you like, enby just fits me best)
 - ⚡ Fun fact: I'm probs undiagnosed autistic (def neurodivergent) - but I'm trying to get an actual diagnosis just to prove to myself why I'm such a goofball of a person
 - 💬 Ask me about anything about iOS or retro video games and I'll probably have an answer for you
