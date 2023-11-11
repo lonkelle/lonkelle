@@ -1,14 +1,12 @@
-### My Life
-
-- 📫 If you want to contact me (or the SideStore team) directly, please join the Discord I created - **SideTeam's Dev Space**: [`discord.gg/AU7Rbv8`](https://bit.ly/joelles-digital-house-discord-invite), otherwise, feel free to reach out via [`twitter.com/lonkelle`](https://bit.ly/lonkelle-twitter), [`mastodon.social/@lonkelle`](https://bit.ly/lonkelle-mastodon), or [`reddit.com/lonkelle`](https://bit.ly/lonkelle-reddit-profile)
-- 😄 Pronouns: They / Them (you can use whatever pronouns you like, enby just fits me best)
-- ⚡ Fun fact: I'm probs undiagnosed autistic (def neurodivergent) - but I'm trying to get an actual diagnosis just to prove to myself why I'm such a goofball of a person
+### My Life 
+- 🧲 Co-founder of [`SideStore.io`](https://sidestore.io), and I'm currently working on [`EmuSync.com`](https://emusync.com) (website coming soon)
+- 🫂 If you'd like to directly support my passion(s), just use [`bit.ly/support-joelle-on-patreon`](https://bit.ly/support-joellestickney-on-patreon) to become a patron of my work 💕
+- ⚡ Fun fact, in highschool I spent all of christmas break sophomore year creating an NES game from scratch in 6502 ASM (10,000 lines of code) called "Tekka Scar Z"
 - 💬 Ask me about anything about iOS or retro video games and I'll probably have an answer for you
 
-### My Work
-
-- 🔭 Currently focusing on [`SideStore`](https://bit.ly/sidestore-twitter) for iOS / macOS / tvOS / watchOS and [`Provenance Emu`](https://bit.ly/provenance-twitter) for iOS / macOS / tvOS - if you'd like to directly support my passion(s), just use [`bit.ly/support-joelle-on-patreon`](https://bit.ly/support-joellestickney-on-patreon) to become a patron of my work 💕
-- 🌱 I run the [`SideStore Discord`](https://bit.ly/altmember-delta-general-chat) and co-moderate / provide tech support on [`r/Provenance_Emu`](https://bit.ly/provenance-reddit), [`r/AltStore`](https://bit.ly/altstore-reddit), [`r/Delta_Emulator`](https://bit.ly/delta-reddit), and [`r/SideStore`](https://bit.ly/sidestore-reddit).
+### Communities 
+- 📫 If you want to contact me (or the SideStore team) directly, join our Discord **SideTeam's Dev Space**: [`discord.gg/AU7Rbv8`](https://bit.ly/joelles-digital-house-discord-invite) - otherwise, feel free to reach out via [`twitter.com/lonkelle`](https://bit.ly/lonkelle-twitter), [`mastodon.social/@lonkelle`](https://bit.ly/lonkelle-mastodon), or [`reddit.com/lonkelle`](https://bit.ly/lonkelle-reddit-profile)
+- 🌱 I co-moderate [`r/AltStore`](https://bit.ly/altstore-reddit), [`r/Delta_Emulator`](https://bit.ly/delta-reddit), [`r/Provenance_Emu`](https://bit.ly/provenance-reddit), [`r/SideStore`](https://bit.ly/sidestore-reddit), and the [`AltStore / Delta Public Discord`](https://bit.ly/altmember-delta-general-chat)
 - 👩‍💼 I use GitHub and Trello for project management. Here are the *public* projects I co-manage: [`SideStore`](https://bit.ly/sidestore-board), [`Provenance`](https://bit.ly/provenance-features), [`AltStore`](https://bit.ly/altstore-features), [`Delta / Deltroid`](https://bit.ly/delta-features), and [`Clip`](https://bit.ly/clip-features)
 
 ### My Interests
