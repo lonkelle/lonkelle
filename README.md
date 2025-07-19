@@ -1,7 +1,7 @@
 ### My Life 
 - 🧲 Co-creator of [`SideStore.io`](https://sidestore.io); currently working on [`EmuSync.com`](https://emusync.com) (website coming soon)
 - 🫂 If you'd like to support my passion(s), use [`bit.ly/support-joelle-on-patreon`](https://bit.ly/support-joellestickney-on-patreon) to become a patron of my work 💕
-- ⚡ Fun fact, in highschool I spent all of christmas break sophomore year creating an NES game in 6502 ASM (10,000 lines)
+- ⚡ Fun fact, in highschool I spent all of christmas break sophomore year creating an NES game in 6502 ASM
 - 💬 Ask me about anything about iOS or retro video games and I'll probably have an answer for you
 
 ### Communities 
