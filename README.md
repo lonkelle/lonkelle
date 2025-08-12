@@ -1,13 +1,13 @@
 ### My Life 
 - 🧲 Co-creator of [`SideStore.io`](https://sidestore.io); currently working on [`EmuSync.com`](https://emusync.com) (website coming soon)
-- 🫂 If you'd like to support my passion(s), use [`bit.ly/support-joelle-on-patreon`](https://bit.ly/support-joellestickney-on-patreon) to become a patron of my work 💕
+- 🫂 If you'd like to support my open-source passion, use [`bit.ly/support-joel-on-patreon`](https://bit.ly/support-joellestickney-on-patreon) to become a patron of my work 💕
 - ⚡ Fun fact, in highschool I spent all of christmas break sophomore year creating an NES game in 6502 ASM
 - 💬 Ask me about anything about iOS or retro video games and I'll probably have an answer for you
 
 ### Communities 
-- 📫 If you want to contact me (or the SideStore team) directly, join **SideTeam's Dev Space**: [`discord.gg/AU7Rbv8`](https://bit.ly/joelles-digital-house-discord-invite) - otherwise, feel free to reach out via [`twitter.com/lonkelle`](https://bit.ly/lonkelle-twitter), [`mastodon.social/@lonkelle`](https://bit.ly/lonkelle-mastodon), or [`reddit.com/lonkelle`](https://bit.ly/lonkelle-reddit-profile)
-- 🌱 I co-moderate [`r/AltStore`](https://bit.ly/altstore-reddit), [`r/Delta_Emulator`](https://bit.ly/delta-reddit), [`r/Provenance_Emu`](https://bit.ly/provenance-reddit), [`r/SideStore`](https://bit.ly/sidestore-reddit), and the [`AltStore / Delta Public Discord`](https://bit.ly/altmember-delta-general-chat)
-- 👩‍💼 I use GitHub and Trello for project management. Here are the *public* projects I co-manage: [`SideStore`](https://bit.ly/sidestore-board), [`Provenance`](https://bit.ly/provenance-features), [`AltStore`](https://bit.ly/altstore-features), [`Delta / Deltroid`](https://bit.ly/delta-features), and [`Clip`](https://bit.ly/clip-features)
+- 📫 If you want to contact me (or the SideStore team) directly, join **SideTeam's Dev Space**: [`discord.gg/sideteam-dev-space`](https://bit.ly/joelles-digital-house-discord-invite) - otherwise, feel free to reach out via my social profiles on [`X`](https://bit.ly/lonkelle-twitter), [`Mastodon`](https://bit.ly/lonkelle-mastodon), or [`Reddit`](https://bit.ly/lonkelle-reddit-profile)
+- 🌱 I co-moderate [`r/AltStore`](https://bit.ly/altstore-reddit), [`r/Delta_Emulator`](https://bit.ly/delta-reddit), [`r/Provenance_Emu`](https://bit.ly/provenance-reddit), [`r/SideStore`](https://bit.ly/sidestore-reddit), and the [`Delta Discord`](https://bit.ly/altmember-delta-general-chat)
+- 👩‍💼 I use GitHub and Trello for project management. Here are the *public* projects I co-manage: [`SideStore`](https://bit.ly/sidestore-board), [`Provenance`](https://bit.ly/provenance-features), [`AltStore`](https://bit.ly/altstore-features), [`Deltroid`](https://bit.ly/delta-features), and [`Clip`](https://bit.ly/clip-features)
 
 ### My Interests
 
