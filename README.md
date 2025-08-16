@@ -1,4 +1,4 @@
-### My Life
+### My Life 
 - 🧲 Co-creator of [`SideStore.io`](https://sidestore.io); currently working on [`EmuSync.com`](https://emusync.com) (website coming soon)
 - 🫂 If you'd like to support my open-source passion, use [`bit.ly/support-joel-on-patreon`](https://bit.ly/support-joellestickney-on-patreon)
 - ⚡ Fun fact, in highschool I spent all of christmas break sophomore year creating an NES game in 6502 ASM
